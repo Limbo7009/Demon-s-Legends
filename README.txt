@@ -1,1 +1,1 @@
-Demon's Legend 
+Demon's Legend is in the process of being created, the game has not yet been officially released, thank you for your understanding. All changes made to the game will only be visible on the github from requests on the request.txt file
